@@ -1,0 +1,11 @@
+D:\Repos\BlazorIdentityKit\BlazorIdentityKit\bin\Debug\net8.0\BlazorIdentityKit.deps.json
+D:\Repos\BlazorIdentityKit\BlazorIdentityKit\bin\Debug\net8.0\BlazorIdentityKit.dll
+D:\Repos\BlazorIdentityKit\BlazorIdentityKit\bin\Debug\net8.0\BlazorIdentityKit.pdb
+D:\Repos\BlazorIdentityKit\BlazorIdentityKit\obj\Debug\net8.0\BlazorIdentityKit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\BlazorIdentityKit\BlazorIdentityKit\obj\Debug\net8.0\BlazorIdentityKit.AssemblyInfoInputs.cache
+D:\Repos\BlazorIdentityKit\BlazorIdentityKit\obj\Debug\net8.0\BlazorIdentityKit.AssemblyInfo.cs
+D:\Repos\BlazorIdentityKit\BlazorIdentityKit\obj\Debug\net8.0\BlazorIdentityKit.csproj.CoreCompileInputs.cache
+D:\Repos\BlazorIdentityKit\BlazorIdentityKit\obj\Debug\net8.0\BlazorIdentityKit.dll
+D:\Repos\BlazorIdentityKit\BlazorIdentityKit\obj\Debug\net8.0\refint\BlazorIdentityKit.dll
+D:\Repos\BlazorIdentityKit\BlazorIdentityKit\obj\Debug\net8.0\BlazorIdentityKit.pdb
+D:\Repos\BlazorIdentityKit\BlazorIdentityKit\obj\Debug\net8.0\ref\BlazorIdentityKit.dll
