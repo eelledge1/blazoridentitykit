@@ -126,6 +126,7 @@ D:\Repos\BlazorIdentityKit\APIs\obj\Debug\net8.0\APIs.AssemblyInfo.cs
 D:\Repos\BlazorIdentityKit\APIs\obj\Debug\net8.0\APIs.csproj.CoreCompileInputs.cache
 D:\Repos\BlazorIdentityKit\APIs\obj\Debug\net8.0\APIs.MvcApplicationPartsAssemblyInfo.cs
 D:\Repos\BlazorIdentityKit\APIs\obj\Debug\net8.0\APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\Repos\BlazorIdentityKit\APIs\obj\Debug\net8.0\APIs.sourcelink.json
 D:\Repos\BlazorIdentityKit\APIs\obj\Debug\net8.0\staticwebassets.build.json
 D:\Repos\BlazorIdentityKit\APIs\obj\Debug\net8.0\staticwebassets.development.json
 D:\Repos\BlazorIdentityKit\APIs\obj\Debug\net8.0\staticwebassets\msbuild.APIs.Microsoft.AspNetCore.StaticWebAssets.props
